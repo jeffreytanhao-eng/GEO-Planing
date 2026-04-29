@@ -1,13 +1,14 @@
 #GEO 规划
 
-1，明确目标
-- 关键词
-- 竞对对手：对标谁，现在的排名是什么？
-- 哪些平台: 豆包，千问，DeepSeek，元宝
+目标
+我们要针对什么关键词什么平台？
+● 哪些关键词
+● 哪些平台:
 <img width="951" height="610" alt="image" src="https://github.com/user-attachments/assets/61560f68-2026-4cdc-8876-0c6c3d9e5c50" />
 
 
 - 目的：在询问AI关键词，出现，排名？
+- 
 
 2，投入人力，预算，预期时间
 
